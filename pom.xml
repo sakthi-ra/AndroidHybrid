@@ -2,12 +2,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.photon.phresco</groupId>
 	<artifactId>AndroidHybrid</artifactId>
-	<version>1.1.0-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
     <scm>
         <connection>https://github.com/sakthi-ra/AndroidHybrid.git</connection>
         <developerConnection>scm:git:https://github.com/sakthi-ra/AndroidHybrid.git</developerConnection>
         <url>scm:git:https://github.com/sakthi-ra/AndroidHybrid.git</url>
-      <tag>AndroidHybrid</tag>
+      <tag>HEAD</tag>
   </scm>
 	<name>AndroidHybrid</name>
 	<packaging>pom</packaging>
